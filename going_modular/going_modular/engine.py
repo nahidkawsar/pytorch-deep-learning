@@ -1,3 +1,5 @@
+%%writefile going_modular/engine.py
+
 """
 Contains functions for training and testing a PyTorch model.
 """
