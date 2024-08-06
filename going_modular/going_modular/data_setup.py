@@ -2,6 +2,9 @@
 Contains functionality for creating PyTorch DataLoaders for 
 image classification data.
 """
+%%writefile going_modular/data_setup.py
+
+
 import os
 
 from torchvision import datasets, transforms
